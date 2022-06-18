@@ -1,13 +1,13 @@
-#Receita de brigadeiro!
+# Receita de brigadeiro!
 
-##Ingredientes:
+## Ingredientes:
 
 	- 1 Leite condensado
 	- 3 colheres de achocolatado
 	- 1 colher(sopa) de manteiga
 	- 1 xícara(chá) de chocolate granulado
 
-##Modo de preparo:
+## Modo de preparo:
 
  	1. Em uma panela, coloque o leite condensado com o chocolate em pó e a manteiga
  	2. Mistura bem e depois leve ao fogo baixo, sempre mexendo até desprender no fundo(cerca de 10 mintos)
